@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# cricket.com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web app for ongoing match score, scheduled events and news related to cricket around the world.
 
-## Available Scripts
+Today in this world, we all get to know that how importance of being upto date with the world.
 
-In the project directory, you can run:
+This app is also time saving and provides every news and score in minimum clicks.
 
-### `npm start`
+Just go, check and enjoy your life. Yeah! It is that simple.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# TECHNOLOGY STACK WE USED
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    
+    ReactJS
+    JavaScript
+    HTML
+    CSS
+    GitHub
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Glimpse of our Website-
+## Landing Page
+![freshlyhome](https://user-images.githubusercontent.com/97332040/166095748-a263ab67-af34-4fed-8a27-5d7755f8b160.png)
+## Plans & Menu
+![freshly plans](https://user-images.githubusercontent.com/97332040/166095871-0a322fdc-e905-4ffa-ab06-77a296ee1b2f.png)
+## Signup
+![freshlysignup](https://user-images.githubusercontent.com/97332040/166095895-a588a3fe-5912-473b-8477-bf62a64142cd.png)
+## Login
+![freshlylogin](https://user-images.githubusercontent.com/97332040/166095918-fd35be69-40c1-448d-8874-10a76450986c.png)
