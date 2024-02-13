@@ -18,7 +18,7 @@ Just go, check and enjoy your life. Yeah! It is that simple.
     GitHub
 
 
-#Some glimpse of App
+# Some glimpse of App
 
 
 ## Homepage
